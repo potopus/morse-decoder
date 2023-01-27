@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# help file in src folder
+src/index.html
